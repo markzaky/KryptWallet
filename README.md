@@ -1,2 +1,2 @@
 # KryptWallet
-A cryptocurrency wallet using Covalent API
+A cryptocurrency Govenment using Covalent API
